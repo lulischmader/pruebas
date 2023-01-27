@@ -5,7 +5,7 @@
 My name is Luli Schmader and I am a second year Ph.D. student at the University of Miami. My areas of research include 19th -21st centuries Latin American Literature, Social Movements, Decolonial, and Indigenous studies. [Graduate students]( https://mll.as.miami.edu/graduate/current-graduate-students/index.html)
 
 ## Contact information
-[email] (les231@miami.edu)
+[email](les231@miami.edu)
 
 ## Education 
 Ph.D. in Literary, Cultural, and Linguistic Studies 
@@ -32,4 +32,4 @@ Make another list with your publications.
 
 ## My links 
 
-[Markdown sheet cheat] (https://www.markdownguide.org/cheat-sheet/)
+[Markdown sheet cheat](https://www.markdownguide.org/cheat-sheet/)
