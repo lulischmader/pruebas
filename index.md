@@ -18,7 +18,7 @@ les231@miami.edu
 Ph.D. in Literary, Cultural, and Linguistic Studies 
 University of Miami, Coral Gables, FL
 
-Masters in Spanish 	 	 	 	 	 	 	 	 	                  
+Masters in Spanish  	 	 	 	 	 	 	 	                  
 Texas State University, San Marcos, TX 
 	 	    	 
 Bachelor of Science in Criminal Justice 	 	 	 	 	 	 	 
