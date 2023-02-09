@@ -15,14 +15,11 @@ les231@miami.edu
 
 ## Education 
 
-Ph.D. in Literary, Cultural, and Linguistic Studies 
-University of Miami, Coral Gables, FL
+Ph.D. in Literary, Cultural, and Linguistic Studies. University of Miami, Coral Gabkes, FL 
 
-Masters in Spanish  	 	 	 	 	 	 	 	                  
-Texas State University, San Marcos, TX 
-	 	    	 
-Bachelor of Science in Criminal Justice 	 	 	 	 	 	 	 
-University of Maryland Global Campus (formerly UMUC), Adelphi, MD 	
+Masters in Spanish. Texas State University, San Marcos, TX  	 	 	 	 	                  
+Bachelor of Science in Criminal Justice. University of Maryland Global Campus (formerly UMUC), Adelphi, MD   
+	 	 	 	 	 	 
 
 ## Publications 
 
