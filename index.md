@@ -1,5 +1,20 @@
 ---
 layout: default
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: yellow;
+  text-align: center;
+}
+
+p {
+  font-family: times new roman;
+  font-size: 20px;
+}
+</style>
 title: Hello Word
 ---
 
