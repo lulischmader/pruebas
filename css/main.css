@@ -41,37 +41,3 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-<h1 style="background-color:DodgerBlue;">Hello World</h1>
-<p style= "background-color: Tomato;">
-El marco teórico utilizado en esta investigación se basa en el concepto 
-de movilidad de Blommaert. Según este autor los sociolingüistas deben buscar nuevas formas para evaluar el contacto 
-lingüístico de las comunidades tomando en cuenta la globalización. Por tanto, se deben tomar en consideración no sólo 
-los discursos sino observar cómo se conectan y se reconectan los “sistemas sociolingüísticos” entre sí. (Blommaert, Sociolinguistic of Globalization 120).
-</p>
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-  background-color: light blue;
-}
-
-h1 {
-  color: white;
-  text-align: center;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
-</style>
-</head>
-<body>
-
-<h1>My First CSS Example</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
-
